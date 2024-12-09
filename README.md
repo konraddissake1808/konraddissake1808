@@ -46,7 +46,6 @@
 
 
 ![konraddissake1808's Stats](https://github-readme-stats.vercel.app/api?username=konraddissake1808&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
-
 ![konraddissake1808's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konraddissake1808&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![konraddissake1808's Streak](https://github-readme-streak-stats.herokuapp.com/?user=konraddissake1808&theme=vue-dark&hide_border=true)
