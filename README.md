@@ -52,8 +52,8 @@
 
 ###
 
-![](https://raw.githubusercontent.com/konraddissake1808/gitStats/actions_branch/generated_images/overview.svg)
-![](https://raw.githubusercontent.com/konraddissake1808/gitStats/actions_branch/generated_images/languages.svg)
+![](https://raw.githubusercontent.com/konraddissake1808/GithubStats/actions_branch/generated_images/overview.svg)
+![](https://raw.githubusercontent.com/konraddissake1808/GithubStats/actions_branch/generated_images/languages.svg)
 
 ###
 
